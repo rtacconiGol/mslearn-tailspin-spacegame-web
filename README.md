@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/TailSpin3011/Space%20Game%20%E2%80%93%20Web/_apis/build/status/rtacconiGol.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/TailSpin3011/Space%20Game%20%E2%80%93%20Web/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
